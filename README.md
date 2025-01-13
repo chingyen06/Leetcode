@@ -9,7 +9,7 @@
 ### Easy
 題號 | 題目 | 解答 |
 |:--------:|:-------:|:--------:|
-| 01 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [github page](/01) |
+| 01 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [github page](/1) |
 
 ### Medium
 題號 | 題目 | 解答 |
