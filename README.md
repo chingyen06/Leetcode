@@ -7,15 +7,15 @@
 ## 題目
 
 ### Easy
-題號 | 題目 | 解答 |
-|:--------:|:-------:|:--------:|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [github page](/1) |
+題號 | 題目 | 解答 | 技巧 |
+|:--------:|:-------:|:--------:|:--------:|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [github page](/1) | 哈希表 |
 
 ### Medium
-題號 | 題目 | 解答 |
-|:--------:|:-------:|:--------:|
-| 2 | [Add Two Numbers]([https://leetcode.com/problems/two-sum/](https://leetcode.com/problems/add-two-numbers/)) | [github page](/2) |
+題號 | 題目 | 解答 | 技巧 |
+|:--------:|:-------:|:--------:|:--------:|
+| 2 | [Add Two Numbers]([https://leetcode.com/problems/two-sum/](https://leetcode.com/problems/add-two-numbers/)) | [github page](/2) | N/A |
 
 ### Hard
-題號 | 題目 | 解答 |
-|:--------:|:-------:|:--------:|
+題號 | 題目 | 解答 | 技巧 |
+|:--------:|:-------:|:--------:|:--------:|
