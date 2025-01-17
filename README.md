@@ -14,7 +14,7 @@
 ### Medium
 題號 | 題目 | 解答 | 技巧 |
 |:--------:|:-------:|:--------:|:--------:|
-| 2 | [Add Two Numbers]([https://leetcode.com/problems/two-sum/](https://leetcode.com/problems/add-two-numbers/)) | [github page](/2) | N/A |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [github page](/2) | N/A |
 
 ### Hard
 題號 | 題目 | 解答 | 技巧 |
