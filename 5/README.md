@@ -3,7 +3,7 @@
 ### 題目: [https://leetcode.com/problems/longest-palindromic-substring/](https://leetcode.com/problems/longest-palindromic-substring/)
 
 
-## 詳解 (1.cpp)
+## 詳解 (5.cpp)
 這題是在考動態規劃，我的方法不是快速解，但是是最直觀的解法。  
 
 我們利用 dp[i][j] 來判斷字串 i ~ j 是不是回文，具體方法如下：  
