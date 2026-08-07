@@ -1,3 +1,15 @@
+/*
+Runtime:
+4ms
+Beats
+62.21%
+
+Memory:
+11.37MB
+Beats
+84.53%
+*/
+
 class Solution {
 public:
     string convert(string s, int numRows) {

@@ -1,3 +1,15 @@
+/*
+Runtime:
+0ms
+Beats
+100.00%
+
+Memory:
+9.07MB
+Beats
+82.43%
+*/
+
 class Solution {
 public:
     int myAtoi(string s) {

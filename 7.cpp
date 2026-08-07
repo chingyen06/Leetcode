@@ -1,3 +1,15 @@
+/*
+Runtime:
+0ms
+Beats
+100.00%
+
+Memory:
+8.43MB
+Beats
+84.39%
+*/
+
 class Solution {
 public:
     int reverse(int x) {

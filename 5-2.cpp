@@ -1,3 +1,15 @@
+/*
+Runtime:
+103ms
+Beats
+26.89%
+
+Memory:
+10.43MB
+Beats
+47.67%
+*/
+
 class Solution {
 public:
     string longestPalindrome(string s) {

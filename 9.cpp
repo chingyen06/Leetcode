@@ -1,3 +1,15 @@
+/*
+Runtime:
+0ms
+Beats
+100.00%
+
+Memory:
+8.63MB
+Beats
+37.18%
+*/
+
 class Solution {
 public:
     bool isPalindrome(int x) {
